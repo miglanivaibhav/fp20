@@ -29,5 +29,4 @@
 - Expense optimization: Closely monitor advertising, SaaS COGS, and professional services, which showed budget overruns in certain months.
 - Client diversification strategy: Mitigate revenue risk by expanding focus beyond top-paying SMB clients to stabilize income streams.
 - Improve budget forecasting: Regular variance analysis can help realign budgets more dynamically to operational trends.
-
-Check the dashboard out: https://humberital-my.sharepoint.com/:u:/g/personal/n01531137_humber_ca/ERPphp7DsnpMkk-kkEfEESkBBfqUgHE2wuEpNCfhJ5Jvpg?e=uWUICJ
+![FP20](https://github.com/user-attachments/assets/e5458c66-2f67-42cc-97c4-5597285a70f4)
